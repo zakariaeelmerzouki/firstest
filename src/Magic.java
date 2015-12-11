@@ -12,6 +12,7 @@ public class Magic {
 	public static void main(String[] args) throws InterruptedException, AWTException {
 		Magic magic = new Magic();
 		magic.start("paint");
+		//zaki darha
 	}
 
 	public Magic() throws AWTException {
